@@ -24,7 +24,7 @@
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/nireesha-k-66474b257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:knireeshao7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=knireeshao7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Nireeshaniree"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
@@ -190,9 +190,13 @@ A hardware and design project that blends **woodwork, epoxy resin and smart LED 
 I'm actively looking for **entry-level Python Full Stack Developer** opportunities, and I'd love to hear from you!
 
 <a href="https://www.linkedin.com/in/nireesha-k-66474b257"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:knireeshao7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=knireeshao7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
+
+📧 **knireeshao7@gmail.com**
+
+<br/>
 
 ⭐ *If you like my work, feel free to star a repo or two!* ⭐
 
