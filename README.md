@@ -101,8 +101,7 @@
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-<!-- EDIT: when you publish these on GitHub, add links like:
-     **[GitHub Repo](https://github.com/Nireeshaniree/your-repo-name)** -->
+<!-- EDIT: if you rename a repo on GitHub, update its link below -->
 
 ### 🖋️ Signature Verification Detection: Enhancing the Image Detection
 
@@ -113,6 +112,8 @@ An image-based system that tells **genuine signatures from forged ones** using Y
 - 📊 Evaluated the model with **accuracy, precision, recall and F1-score**, and analyzed results with a **confusion matrix**
 
 **Tech Stack:** `Python` `YOLO` `Ultralytics YOLO` `OpenCV` `NumPy` `Pandas` `PyTorch` `Jupyter Notebook` `Google Colab`
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nireeshaniree/signature-verification-yolo)
 
 <br/>
 
@@ -125,6 +126,8 @@ A hardware and design project that blends **woodwork, epoxy resin and smart LED 
 - ✅ Ran functional testing on LED performance and circuit connections, with careful LED placement for visual appeal
 
 **Tech Stack:** `Wood` `Epoxy Resin` `LED Strip` `Arduino / LED Controller` `Sensors` `Power Supply` `Electrical Wiring` `Embedded Programming`
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nireeshaniree/light-up-epoxy-resin-table)
 
 ---
 
